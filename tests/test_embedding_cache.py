@@ -6,6 +6,7 @@ import hashlib
 from pathlib import Path
 
 import pytest
+
 from axio_tui_rag.embedding_cache import CachedEmbeddingTransport, _cache_key
 
 

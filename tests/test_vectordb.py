@@ -5,6 +5,7 @@ from __future__ import annotations
 from pathlib import Path
 
 import pytest
+
 from axio_tui_rag.vectordb import SearchResult, VectorStore, chunk_text
 
 # ---------------------------------------------------------------------------
