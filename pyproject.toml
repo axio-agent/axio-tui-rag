@@ -41,5 +41,5 @@ dev = [
 ]
 
 [[tool.mypy.overrides]]
-module = ["axio", "axio.*", "axio_tui", "axio_tui.*"]
+module = ["axio_tui", "axio_tui.*"]
 ignore_missing_imports = true
