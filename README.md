@@ -1,3 +1,6 @@
+> [\!NOTE]
+> This repository has been archived. Development continues in [axio-agent/monorepo](https://github.com/axio-agent/monorepo).
+
 # axio-tui-rag
 
 [![PyPI](https://img.shields.io/pypi/v/axio-tui-rag)](https://pypi.org/project/axio-tui-rag/)
